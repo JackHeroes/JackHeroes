@@ -4,3 +4,10 @@
  <img height="400px" width="48%" src="https://github-readme-stats.vercel.app/api?username=jackheroes&show_icons=true&count_private=true&title_color=B5ACEA&text_color=B5ACEA&icon_color=8468EC&bg_color=3D2C8D&border_color=1C0C5B"/> 
  <img height="400px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackheroes&layout=compact&title_color=B5ACEA&text_color=B5ACEA&icon_color=8468EC&bg_color=3D2C8D&border_color=1C0C5B"/>
 </div>
+
+## Minhas habilidades:
+
+<div style="display: flex">
+ <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
