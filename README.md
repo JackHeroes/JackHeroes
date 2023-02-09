@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-<p>🌎 Desenvolvedor focado em front-end</p>
+<p>🌎 Desenvolvedor focado em Front-End</p>
 <p>🖥️ Atualmente estudando JavaScript e Vue.js</p>
 <p>🎓 Cursando Ciência da Computação na Universidade Veiga de Almeida 3/8<p/>
 <p>🌱 Aprendendo e evoluindo, buscando experiencia no mercado de trabalho<p/>
