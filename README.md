@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=B5ACEA&center=true&vCenter=true&width=972&height=100&lines=OL%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Felipe;Desenvolvedor+front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=B5ACEA&center=true&vCenter=true&width=972&height=100&lines=OL%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Felipe;Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 # Sobre mim
 
@@ -19,7 +19,7 @@
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+ <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 </div>
 
 # Redes Sociais
