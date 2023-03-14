@@ -22,6 +22,11 @@
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 </div>
 
+# Ferramentas que utilizo
+<div style="display: flex;">
+ <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</div>
+
 # Redes Sociais
 
 <div style="display: flex;">
