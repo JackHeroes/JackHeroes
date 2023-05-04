@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=B5ACEA&center=true&vCenter=true&width=972&height=100&lines=OL%C3%A1%2C+meu+nome+%C3%A9+Jo%C3%A3o+Felipe;Desenvolvedor+Front-End)](https://git.io/typing-svg)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+
+
+
 
 # Sobre mim
 
