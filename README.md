@@ -29,6 +29,7 @@
 
 # Ferramentas que utilizo
 <div style="display: flex;">
+ <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg""/>
 </div>
