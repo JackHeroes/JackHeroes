@@ -16,7 +16,7 @@
 
 # Frontend
 <div style="display: flex;">     
- (https://skillicons.dev/icons?i=html,css,js)]
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 </div>
 
 # Backend
