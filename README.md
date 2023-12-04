@@ -16,7 +16,7 @@
 
 # Frontend
 <div style="display: flex;">     
- (https://skillicons.dev/icons?i=js,html,css,wasm)]
+ (https://skillicons.dev/icons?i=html,css,js)]
 </div>
 
 # Backend
