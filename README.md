@@ -18,23 +18,39 @@
 <div style="display: flex;">     
  <img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>
  <img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>
- <img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>
+ <img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/>
+
+  <img height="48px" width="48px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>
+    <img height="48px" width="48px" alt="Icone jquery" src="https://skillicons.dev/icons?i=jquery"/>
+       <img height="48px" width="48px" alt="Icone vue" src="https://skillicons.dev/icons?i=vue"/>
 </div>
 
 # Backend
 <div style="display: flex;">     
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/> 
+  <img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>
+  <img height="48px" width="48px" alt="Icone py" src="https://skillicons.dev/icons?i=py"/>
+
+  <img height="48px" width="48px" alt="Icone django" src="https://skillicons.dev/icons?i=django"/>
+    <img height="48px" width="48px" alt="Icone flask" src="https://skillicons.dev/icons?i=flask"/>
+     <img height="48px" width="48px" alt="Icone spring" src="https://skillicons.dev/icons?i=spring"/>
+
+  <img height="48px" width="48px" alt="Icone docker" src="https://skillicons.dev/icons?i=docker"/>
+    <img height="48px" width="48px" alt="Icone kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>
+
+   <img height="48px" width="48px" alt="Icone mysql" src="https://skillicons.dev/icons?i=mysql"/>
+      <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>
+
+   <img height="48px" width="48px" alt="Icone mongodb" src="https://skillicons.dev/icons?i=mongodb"/>
 </div>
 
 # Ferramentas que utilizo
 <div style="display: flex;">
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
- <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg""/>
+ <img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>
+  <img height="48px" width="48px" alt="Icone figma" src="https://skillicons.dev/icons?i=figma"/>
+   <img height="48px" width="48px" alt="Icone git" src="https://skillicons.dev/icons?i=git"/>
+   <img height="48px" width="48px" alt="Icone github" src="https://skillicons.dev/icons?i=github"/>
+    <img height="48px" width="48px" alt="Icone postman" src="https://skillicons.dev/icons?i=postman"/>
+   <img height="48px" width="48px" alt="Icone vscode" src="https://skillicons.dev/icons?i=vscode"/>
 </div>
 
 # Redes Sociais
