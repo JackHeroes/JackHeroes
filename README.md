@@ -16,7 +16,8 @@
 
 # Frontend
 <div style="display: flex;">     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ [<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>]
+ [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>]
 </div>
 
 # Backend
