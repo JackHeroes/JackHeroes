@@ -25,15 +25,10 @@
 <div style="display: flex;">     
  <img height="48px" width="48px" alt="Icone py" src="https://skillicons.dev/icons?i=py"/>
  <img height="48px" width="48px" alt="Icone django" src="https://skillicons.dev/icons?i=django"/>
- <img height="48px" width="48px" alt="Icone flask" src="https://skillicons.dev/icons?i=flask"/>
- 
- <img height="48px" width="48px" alt="Icone java" src="https://skillicons.dev/icons?i=java"/>
- <img height="48px" width="48px" alt="Icone spring" src="https://skillicons.dev/icons?i=spring"/>
- 
+
  <img height="48px" width="48px" alt="Icone mysql" src="https://skillicons.dev/icons?i=mysql"/>
  <img height="48px" width="48px" alt="Icone postgres" src="https://skillicons.dev/icons?i=postgres"/>
- <img height="48px" width="48px" alt="Icone mongodb" src="https://skillicons.dev/icons?i=mongodb"/>
- 
+
  <img height="48px" width="48px" alt="Icone docker" src="https://skillicons.dev/icons?i=docker"/>
  <img height="48px" width="48px" alt="Icone kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>
 </div>
