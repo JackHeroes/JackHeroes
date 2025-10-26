@@ -1,7 +1,7 @@
 # Sobre mim
-<p>🌎 Desenvolvedor focado em Front-End</p>
-<p>🖥️ Atualmente estudando Django e JavaScript</p>
-<p>🎓 Cursando Ciência da Computação na Universidade Veiga de Almeida 4/8<p/>
+<p>🌎 Desenvolvedor focado em Full-Stack com JavaScript e Python</p>
+<p>🖥️ Atualmente estudando Django e IA</p>
+<p>🎓 Cursando Ciência da Computação na Universidade Veiga de Almeida 8/8<p/>
 <p>🌱 Aprendendo e evoluindo, buscando experiencia no mercado de trabalho<p/>
  
 # Status
